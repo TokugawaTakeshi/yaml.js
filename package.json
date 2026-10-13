@@ -11,7 +11,7 @@
   "author": "Jeremy Faivre <contact@jeremyfa.com>",
   "main": "./lib/Yaml.js",
   "dependencies": {
-    "argparse": "^1.0.7",
+    "argparse": "^3.0.2",
     "glob": "^7.0.5"
   },
   "devDependencies": {
